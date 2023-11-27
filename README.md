@@ -8,7 +8,7 @@
 <img src="Screenshot from 2023-11-27 08-12-45.png">
 
 <h3>ERD</h3>
-<img src="assets/Screenshot from 2023-11-27 08-33-16.png">
+<img src="Screenshot from 2023-11-27 08-33-16.png">
 
 <h3>Hierarchy Diagram</h3>
 <img src="Screenshot from 2023-11-27 08-15-48.png">
