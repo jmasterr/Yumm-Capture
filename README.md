@@ -1,5 +1,5 @@
-# Yumm-Capture
-# To Capture your Yummy moments
+# Yumm-Capture <p>To capture your Yummy moments</p>
+
 <h1>Description</h1>
 <p>Welcome to Yumm-Capture, your ultimate companion in the world of culinary exploration! This innovative recipe book app is designed to elevate your cooking experience, providing a seamless blend of inspiration, organization, and creativity. Whether you're a seasoned chef or a kitchen novice, Yumm-Capture is your go-to app for crafting delicious meals and capturing culinary moments.</P>
 
