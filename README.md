@@ -5,40 +5,19 @@
 
 
 <h3>WireFrame</h3>
-<img src="">
-<img src="">
-<img src="">
-<img src="">
+<img src="Screenshot from 2023-11-27 08-12-45.png">
 
 <h3>ERD</h3>
-<img src="">
+<img src="assets/Screenshot from 2023-11-27 08-33-16.png">
 
 <h3>Hierarchy Diagram</h3>
-<img src="">
-
-<!-- <h3>Home</h3>
-<img src="assets/Screenshot from 2023-11-12 20-40-17.png">
-<p>In the home you will see 2 links that will take you to the create your own pizza page and the pizza page and a about us</p>
-
-<h3>Pizza Descriptions</h3>
-<img src="assets/Screenshot from 2023-11-12 20-51-47.png">
-<p>This is where you are able to see the pizzas and add them to cart and see their descriptions</p>
-
-<h3>Create Your Own Pizza</h3>
-<img src="assets/Screenshot from 2023-11-12 20-53-24.png">
-<p>This is the part of the app where you are able to create your own pizza and add it to your order</p>
-
-<h3>Cart</h3>
-<img src="assets/Screenshot from 2023-11-12 20-55-52.png">
-<p>The cart is a overlay on the body of the page and it shows your order and you have the option to remove items and delete your order</p> -->
-
+<img src="Screenshot from 2023-11-27 08-15-48.png">
 
 <h3>UserStories</h3>
 <ul>
-    <li>As a customer, I want to be able to browse the menu online, so I can see the different pizza options and their prices before placing an order.</li>
-    <li>As a customer, I want to be able to create an account on the pizza shop's website, so I can easily place orders and track my order history.</li>
-    <li>As a customer, I want to be able to customize my pizza with different toppings, crust options, and sizes when placing an order.</li>
-    <li>As a customer, I want to be able to add multiple pizzas to my order and specify delivery or pickup preferences for each one.</li>
+    <li>As a user I want to be able to add my own recipes</li>
+    <li>As a user I would want to have a place to find new recipes and see if there are any allergies </li>
+    <li>I would also like to see a nice design and have a space where I can feel like it is a place to capture my fun yummy moments</li>
 </ul>
 
 <h3>STRETCH GOALS</h3>
