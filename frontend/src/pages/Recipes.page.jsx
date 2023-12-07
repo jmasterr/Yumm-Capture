@@ -27,10 +27,11 @@ const RecipesPage = () => {
     return recipes.map((recipe) => (
       <WrapItem key={recipe.id}>
         <Center
-          w={200}
+          w={500}
+          h={300}
           padding="20px"
           bg="red.200"
-          style={{ display: "flex", flexDirection: "column" }}
+          style={{ display: "flex", flexDirection: "column", marginLeft: 50 }}
         >
           <Image
             src={recipe.photoUrl}
