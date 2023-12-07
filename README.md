@@ -29,7 +29,6 @@
 
 <h3>Technologies</h3>
 <ul>
-    <li>React</li>
-    <li>Django</li>
+    <li>MERNSTACK<li>
 
 </ul>
